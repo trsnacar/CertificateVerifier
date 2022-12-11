@@ -1,0 +1,1 @@
+This test code contains 4 tests to verify that the contract is initialized correctly, that only the verifier address can validate certificates, that the same certificate cannot be validated more than once, and that a certificate is added to the list of validated certificates after it has been validated.
